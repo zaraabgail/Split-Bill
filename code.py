@@ -8,7 +8,6 @@ st.markdown("""
         font-family: 'Quicksand', sans-serif;
     }
 
-    /* Optional: make headers stand out */
     h1, h2, h3 {
         font-family: 'Quicksand', sans-serif;
         font-weight: 600;
@@ -283,6 +282,7 @@ with st.expander("Notes"):
 - **Tax**: figure out the ratio and split urself :).  
         """
     )
+
 
 
 

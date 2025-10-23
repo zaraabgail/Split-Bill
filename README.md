@@ -23,4 +23,4 @@ Supports PPN, service charge, and percentage-based discounts that affect the tax
 7. Each person pays based on assigned items and proportional charges
 
 ## Link
-https://split-bill-frdkuzbl4hbfygevcck8wx.streamlit.app/
+https://split-bill-9q9fqqhu4vqjevirkawwxg.streamlit.app/
